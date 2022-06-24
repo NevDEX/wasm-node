@@ -11,9 +11,9 @@ web3 = { version = "0.17.0", default-features = false, features = [
     "http",
 ] }
 tokio = { version = "1.19.2", features = ["rt-multi-thread"] }
-# async-std = "1.12.0"
 marine-rs-sdk = "0.6.15"
 futures = "*"
+hex = "*"
 
 [dev-dependencies]
 marine-rs-sdk-test = "*"
