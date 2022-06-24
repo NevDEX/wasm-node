@@ -1,0 +1,11 @@
+{
+  "web3": {
+    "modules": [
+      {
+        "name": "web3",
+        "path": "./artifacts/web3.wasm",
+        "logger_enabled": [true]
+      }
+    ]
+  }
+}

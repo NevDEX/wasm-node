@@ -16,5 +16,5 @@ pub fn get_accounts(url : String)  -> Accounts{
 
 #[marine]
 pub fn get_balance(url : String , account: String) -> u64 {
-    return  account::get_balance(&url, &account)
+    return  account::get_acc_balance(&url, &account)
 }

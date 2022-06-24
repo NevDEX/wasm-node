@@ -25,7 +25,7 @@ impl Balance {
 }
 
 #[marine]
-pub fn get_balance(url : &str , account : &str) -> u64 {
+pub fn get_acc_balance(url : &str , account : &str) -> u64 {
     let rtrun_time = Runtime::new().unwrap();
     let balance = rtrun_time.block_on(Balance::new(url,account).balance()).unwrap();
     balance.low_u64()
