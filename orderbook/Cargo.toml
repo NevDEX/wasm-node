@@ -1,9 +1,8 @@
 [package]
 name = "wasm-orderbook"
 version = "0.1.0"
-authors = ["Fluence Labs"]
-description = "The greeting module for the Fluence network"
-repository = "https://github.com/fluencelabs/marine/tree/master/examples/greeting"
+authors = ["fsy412"]
+description = "matching node"
 edition = "2018"
 publish = false
 
@@ -14,6 +13,8 @@ path = "src/main.rs"
 [dependencies]
 marine-rs-sdk = "0.6.14"
 orderbook = {path = "./utils/orderbook-rs/"}
+once_cell = "1.4.1"
+parking_lot = "0.11.1"
 
 [dev-dependencies]
 marine-rs-sdk-test = "0.4.1"
