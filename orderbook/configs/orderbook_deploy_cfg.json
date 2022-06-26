@@ -3,7 +3,7 @@
     "modules": [
       {
         "name": "orderbook",
-        "path": "./artifacts/greeting.wasm",
+        "path": "./artifacts/orderbook.wasm",
         "logger_enabled": [true]
       }
     ]
