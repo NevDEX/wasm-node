@@ -1,6 +1,6 @@
 ####### path
 web3/target/
-
+api/target/
 
 ####### file
 Cargo.lock

@@ -1,0 +1,11 @@
+C:\Worker\self\wasm-node\apis\target\debug\deps\uncased-ab2ec2a5f702f6cd.rmeta: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Worker\self\wasm-node\apis\target\debug\deps\libuncased-ab2ec2a5f702f6cd.rlib: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Worker\self\wasm-node\apis\target\debug\deps\uncased-ab2ec2a5f702f6cd.d: C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs:
+C:\Users\Administrator\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs:
